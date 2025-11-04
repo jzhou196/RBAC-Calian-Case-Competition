@@ -1,0 +1,29 @@
+﻿category,id,name,Sum of unit_price_cad
+Alcoholic,D004,Draft Beer Pint,8.49
+Alcoholic,D005,House Wine 6oz,9.99
+Appetizers,F002,Chicken Wings,15.49
+Appetizers,F003,Nachos Supreme,16.99
+Appetizers,F012,Poutine,9.99
+Arcade,E001,Arcade Credits 20,20
+Arcade,E002,Arcade Credits 40,40
+Arcade,E006,Skee-Ball Pack,10
+Arcade,E007,Air Hockey 30 mins,9
+Billiards,E004,Billiards Hour,18
+Bowling,E005,Bowling Game,8
+Cocktail,D006,Margarita,12.49
+Cocktail,D007,Old Fashioned,13.49
+Desserts,F010,Chocolate Lava Cake,8.99
+Desserts,F011,Cheesecake,8.49
+Mains,F001,Classic Burger,17.99
+Mains,F004,Mac & Cheese,14.49
+Mains,F005,BBQ Ribs Half Rack,23.99
+Mains,F007,Veggie Pizza,18.99
+Mains,F008,Steak Sandwich,21.49
+Mains,F009,Fish Tacos,16.49
+Non-alcoholic,D001,Soft Drink,3.49
+Non-alcoholic,D002,Bottled Water,2.99
+Non-alcoholic,D003,Coffee,3.29
+Non-alcoholic,D008,Iced Tea,3.49
+Non-alcoholic,D009,Energy Drink,4.99
+Salads,F006,Caesar Salad,12.49
+VR,E003,VR Experience,14.99

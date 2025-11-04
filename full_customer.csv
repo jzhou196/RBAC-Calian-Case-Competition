@@ -1,0 +1,309 @@
+﻿Sum of age,Year,Quarter,Month,Day,email,gender,loyalty_enrolled,loyalty_id,name,occupation,phone,Sum of points_earned,tier
+58,1967,Qtr 2,June,13,camila.patel33@yahoo.com,Female,Y,L000034,Camila Patel,HR Coordinator,1-647-807-3988,7051,Frequent
+58,1967,Qtr 3,August,27,carter.kim97@icloud.com,Male,Y,L000098,Carter Kim,Chef,1-437-32-1372,6777,Frequent
+57,1968,Qtr 2,June,13,matthew.khan286@icloud.com,Female,Y,L000287,Matthew Khan,Graphic Designer,1-416-281-7930,7831,Frequent
+56,1969,Qtr 1,March,18,daniel.wong380@hotmail.com,Female,Y,L000381,Daniel Wong,Customer Service Rep,1-416-288-7480,3945,Frequent
+54,1971,Qtr 1,January,1,liam.singh422@yahoo.com,Prefer not to say,Y,L000423,Liam Singh,Student,1-437-681-9430,3563,Frequent
+54,1971,Qtr 4,November,10,mia.lam354@outlook.com,Female,Y,L000355,Mia Lam,Consultant,1-365-638-5906,8226,Very Frequent
+53,1972,Qtr 2,May,13,lucas.johnson76@outlook.com,Male,Y,L000077,Lucas Johnson,Graphic Designer,1-905-629-8543,12754,Very Frequent
+53,1972,Qtr 2,May,31,james.wang283@icloud.com,Male,Y,L000284,James Wang,Project Manager,1-416-492-2387,7544,Frequent
+53,1972,Qtr 3,July,4,benjamin.nguyen74@icloud.com,Male,Y,L000075,Benjamin Nguyen,Sales Associate,1-289-996-2074,10019,Very Frequent
+50,1975,Qtr 2,May,13,john.smith377@gmail.com,Male,Y,L000378,John Smith,Customer Service Rep,1-365-326-9208,11564,Very Frequent
+49,1976,Qtr 2,April,23,victoria.liu309@hotmail.com,Male,Y,L000310,Victoria Liu,Product Manager,1-647-26-9417,8496,Very Frequent
+48,1977,Qtr 1,March,3,luke.anderson415@hotmail.com,Prefer not to say,Y,L000416,Luke Anderson,Consultant,1-905-89-5175,4722,Frequent
+48,1977,Qtr 1,March,26,amelia.nguyen311@outlook.com,Female,Y,L000312,Amelia Nguyen,Nurse,1-289-760-3590,3058,Frequent
+47,1978,Qtr 1,January,16,owen.anderson120@yahoo.com,Male,Y,L000121,Owen Anderson,Electrician,1-905-525-6337,10255,Very Frequent
+47,1978,Qtr 2,May,19,wyatt.garcia284@outlook.com,Male,Y,L000285,Wyatt Garcia,Graphic Designer,1-905-202-7511,7058,Frequent
+47,1978,Qtr 3,August,8,samuel.johnson46@hotmail.com,Female,Y,L000047,Samuel Johnson,Research Assistant,1-905-226-7562,5920,Frequent
+47,1978,Qtr 3,September,1,noah.li242@yahoo.com,Male,Y,L000243,Noah Li,Consultant,1-905-537-2780,11523,Very Frequent
+47,1978,Qtr 4,December,1,luna.khan281@gmail.com,Female,Y,L000282,Luna Khan,Nurse,1-647-524-970,5246,Frequent
+45,1980,Qtr 1,January,1,luna.chow322@icloud.com,Female,Y,L000323,Luna Chow,Research Assistant,1-416-182-3000,9435,Very Frequent
+45,1980,Qtr 2,May,18,carter.zhang403@gmail.com,Male,Y,L000404,Carter Zhang,Software Engineer,1-647-498-1867,9743,Very Frequent
+44,1981,Qtr 1,February,1,john.taylor88@hotmail.com,Female,Y,L000089,John Taylor,Truck Driver,1-647-690-7231,5102,Frequent
+44,1981,Qtr 2,May,9,henry.park477@hotmail.com,Male,Y,L000478,Henry Park,Product Manager,1-437-335-396,8157,Very Frequent
+44,1981,Qtr 2,June,7,grace.lopez418@outlook.com,Female,Y,L000419,Grace Lopez,Operations Manager,1-437-294-4015,7538,Frequent
+43,1982,Qtr 1,January,30,mia.anderson70@icloud.com,Male,Y,L000071,Mia Anderson,Student,1-416-146-4022,7313,Frequent
+43,1982,Qtr 1,February,1,aria.nowak441@icloud.com,Prefer not to say,Y,L000442,Aria Nowak,Chef,1-905-563-3584,9267,Very Frequent
+43,1982,Qtr 1,March,12,carter.white124@yahoo.com,Male,Y,L000125,Carter White,Project Manager,1-416-116-7617,2471,Frequent
+43,1982,Qtr 2,April,9,jackson.martin170@gmail.com,Male,Y,L000171,Jackson Martin,Marketing Specialist,1-437-486-4584,9844,Very Frequent
+43,1982,Qtr 2,May,28,camila.kowalski384@hotmail.com,Female,Y,L000385,Camila Kowalski,Nurse,1-905-801-2778,3418,Frequent
+43,1982,Qtr 2,June,12,carter.gonzalez338@gmail.com,Male,Y,L000339,Carter Gonzalez,Teacher,1-437-750-728,6764,Frequent
+43,1982,Qtr 3,July,27,zoey.huang368@outlook.com,Male,Y,L000369,Zoey Huang,HR Coordinator,1-905-850-1617,5911,Frequent
+43,1982,Qtr 3,July,28,ella.lin358@yahoo.com,Male,Y,L000359,Ella Lin,Marketing Specialist,1-365-693-245,7869,Frequent
+43,1982,Qtr 3,August,6,layla.chow107@outlook.com,Male,Y,L000108,Layla Chow,Electrician,1-905-609-8417,13911,Very Frequent
+43,1982,Qtr 3,September,30,harper.liu61@outlook.com,Female,Y,L000062,Harper Liu,Marketing Specialist,1-289-90-7476,9418,Very Frequent
+43,1982,Qtr 4,October,6,chloe.park89@icloud.com,Female,Y,L000090,Chloe Park,HR Coordinator,1-365-710-8629,7536,Frequent
+43,1982,Qtr 4,October,18,joseph.lopez252@icloud.com,Female,Y,L000253,Joseph Lopez,Product Manager,1-365-467-8855,7304,Frequent
+43,1982,Qtr 4,November,11,evelyn.nguyen65@outlook.com,Male,Y,L000066,Evelyn Nguyen,Teacher,1-647-371-2900,4977,Frequent
+42,1983,Qtr 1,January,22,wyatt.tremblay128@hotmail.com,Female,Y,L000129,Wyatt Tremblay,Truck Driver,1-289-634-1018,6982,Frequent
+42,1983,Qtr 1,January,31,jack.lopez182@yahoo.com,Male,Y,L000183,Jack Lopez,Barista,1-437-90-9672,6974,Frequent
+42,1983,Qtr 1,February,11,chloe.kim399@outlook.com,Female,Y,L000400,Chloe Kim,Project Manager,1-437-446-5110,8629,Very Frequent
+42,1983,Qtr 1,March,18,sofia.taylor471@icloud.com,Non-binary,Y,L000472,Sofia Taylor,Graphic Designer,1-365-375-7311,7390,Frequent
+42,1983,Qtr 2,April,6,jackson.roy27@yahoo.com,Male,Y,L000028,Jackson Roy,Data Analyst,1-437-245-3985,13395,Very Frequent
+42,1983,Qtr 2,April,29,emma.wilson303@outlook.com,Female,Y,L000304,Emma Wilson,Nurse,1-905-26-3770,10286,Very Frequent
+42,1983,Qtr 3,July,13,mason.white315@icloud.com,Male,Y,L000316,Mason White,Software Engineer,1-437-378-558,11269,Very Frequent
+42,1983,Qtr 3,September,2,henry.lin68@hotmail.com,Male,Y,L000069,Henry Lin,Sales Associate,1-289-567-3925,5985,Frequent
+42,1983,Qtr 3,September,17,jack.nguyen394@icloud.com,Female,Y,L000395,Jack Nguyen,Research Assistant,1-365-815-302,11287,Very Frequent
+42,1983,Qtr 4,November,25,aria.khan113@outlook.com,Female,Y,L000114,Aria Khan,Accountant,1-416-526-2183,7119,Frequent
+41,1984,Qtr 1,January,27,henry.martin143@yahoo.com,Male,Y,L000144,Henry Martin,Consultant,1-905-660-8456,7066,Frequent
+41,1984,Qtr 1,March,1,owen.wang363@hotmail.com,Male,Y,L000364,Owen Wang,Marketing Specialist,1-289-796-1816,9236,Very Frequent
+41,1984,Qtr 2,April,15,samuel.macdonald16@yahoo.com,Male,Y,L000017,Samuel MacDonald,Nurse,1-647-500-5070,7133,Frequent
+41,1984,Qtr 2,May,3,samuel.nguyen203@icloud.com,Female,Y,L000204,Samuel Nguyen,Truck Driver,1-647-771-9295,2289,Frequent
+41,1984,Qtr 2,June,24,jack.gonzalez233@gmail.com,Male,Y,L000234,Jack Gonzalez,Accountant,1-289-191-7079,4365,Frequent
+41,1984,Qtr 3,July,21,david.anderson336@gmail.com,Male,Y,L000337,David Anderson,Nurse,1-905-393-427,7843,Frequent
+41,1984,Qtr 3,August,20,madison.lin112@outlook.com,Male,Y,L000113,Madison Lin,Customer Service Rep,1-365-136-7879,6074,Frequent
+41,1984,Qtr 3,August,20,riley.brown202@yahoo.com,Male,Y,L000203,Riley Brown,Graphic Designer,1-647-54-6820,7454,Frequent
+41,1984,Qtr 3,August,23,chloe.rodriguez340@hotmail.com,Male,Y,L000341,Chloe Rodriguez,Product Manager,1-365-939-3199,8928,Very Frequent
+41,1984,Qtr 3,September,23,madison.lin227@icloud.com,Female,Y,L000228,Madison Lin,Graphic Designer,1-905-105-5780,8625,Very Frequent
+41,1984,Qtr 4,November,27,james.patel154@outlook.com,Male,Y,L000155,James Patel,Student,1-437-356-6937,10432,Very Frequent
+40,1985,Qtr 1,February,4,benjamin.wilson14@hotmail.com,Male,Y,L000015,Benjamin Wilson,Software Engineer,1-416-951-6915,14092,Very Frequent
+40,1985,Qtr 1,February,9,sebastian.garcia226@outlook.com,Male,Y,L000227,Sebastian Garcia,Graphic Designer,1-416-94-7104,9592,Very Frequent
+40,1985,Qtr 1,February,14,mila.huang59@hotmail.com,Male,Y,L000060,Mila Huang,Data Analyst,1-905-472-8808,7471,Frequent
+40,1985,Qtr 2,April,14,jackson.brown140@hotmail.com,Male,Y,L000141,Jackson Brown,Electrician,1-416-333-230,5614,Frequent
+40,1985,Qtr 2,April,17,riley.su49@hotmail.com,Female,Y,L000050,Riley Su,Electrician,1-905-370-8947,7592,Frequent
+40,1985,Qtr 2,May,21,aiden.chan248@hotmail.com,Male,Y,L000249,Aiden Chan,Graphic Designer,1-365-840-722,12475,Very Frequent
+40,1985,Qtr 3,August,13,elijah.zhang168@hotmail.com,Male,Y,L000169,Elijah Zhang,Nurse,1-289-499-8971,4101,Frequent
+39,1986,Qtr 1,February,1,charlotte.anderson449@yahoo.com,Female,Y,L000450,Charlotte Anderson,Sales Associate,1-437-881-7274,3157,Frequent
+39,1986,Qtr 1,March,10,henry.white239@outlook.com,Male,Y,L000240,Henry White,Nurse,1-437-375-3074,5677,Frequent
+39,1986,Qtr 1,March,16,abigail.chow473@gmail.com,Male,Y,L000474,Abigail Chow,Consultant,1-437-515-2073,4733,Frequent
+39,1986,Qtr 2,April,30,joseph.brown481@hotmail.com,Prefer not to say,Y,L000482,Joseph Brown,HR Coordinator,1-289-952-262,7563,Frequent
+39,1986,Qtr 2,June,13,layla.nowak71@gmail.com,Male,Y,L000072,Layla Nowak,Barista,1-365-227-5811,7581,Frequent
+39,1986,Qtr 2,June,26,jackson.kowalski152@gmail.com,Male,Y,L000153,Jackson Kowalski,Product Manager,1-365-839-2990,5520,Frequent
+39,1986,Qtr 3,August,27,charlotte.liu453@yahoo.com,Male,Y,L000454,Charlotte Liu,Accountant,1-437-724-6397,7897,Frequent
+38,1987,Qtr 1,March,7,emma.kowalski259@hotmail.com,Female,Y,L000260,Emma Kowalski,HR Coordinator,1-416-949-9838,8060,Very Frequent
+38,1987,Qtr 1,March,27,abigail.park335@gmail.com,Male,Y,L000336,Abigail Park,Sales Associate,1-647-124-5943,3115,Frequent
+38,1987,Qtr 2,April,18,charlotte.tremblay318@yahoo.com,Female,Y,L000319,Charlotte Tremblay,Teacher,1-437-466-4386,4630,Frequent
+38,1987,Qtr 2,April,23,luke.su353@icloud.com,Male,Y,L000354,Luke Su,Sales Associate,1-647-963-5706,15268,Very Frequent
+38,1987,Qtr 2,April,30,daniel.lopez257@gmail.com,Female,Y,L000258,Daniel Lopez,Barista,1-289-398-4325,6636,Frequent
+38,1987,Qtr 2,May,6,aiden.chen118@yahoo.com,Male,Y,L000119,Aiden Chen,Product Manager,1-289-142-6460,4571,Frequent
+38,1987,Qtr 3,July,27,sophia.ivanov110@hotmail.com,Female,Y,L000111,Sophia Ivanov,Truck Driver,1-647-483-7332,7219,Frequent
+38,1987,Qtr 3,September,12,sebastian.gonzalez98@gmail.com,Female,Y,L000099,Sebastian Gonzalez,Student,1-365-208-5920,10405,Very Frequent
+38,1987,Qtr 4,October,24,mason.khan485@yahoo.com,Male,Y,L000486,Mason Khan,Electrician,1-289-202-3999,8775,Very Frequent
+38,1987,Qtr 4,December,10,avery.brown176@icloud.com,Male,Y,L000177,Avery Brown,Student,1-905-269-5204,8170,Very Frequent
+38,1987,Qtr 4,December,31,mason.chan230@icloud.com,Male,Y,L000231,Mason Chan,Teacher,1-289-113-9368,6561,Frequent
+37,1988,Qtr 1,March,22,carter.liu164@outlook.com,Male,Y,L000165,Carter Liu,Consultant,1-289-80-9722,4582,Frequent
+37,1988,Qtr 2,June,14,charlotte.khan313@gmail.com,Female,Y,L000314,Charlotte Khan,Nurse,1-905-975-9866,12598,Very Frequent
+37,1988,Qtr 3,July,17,lily.rodriguez147@yahoo.com,Female,Y,L000148,Lily Rodriguez,Nurse,1-365-466-8074,11759,Very Frequent
+37,1988,Qtr 3,August,1,benjamin.park25@icloud.com,Male,Y,L000026,Benjamin Park,Software Engineer,1-289-592-7236,8258,Very Frequent
+37,1988,Qtr 4,November,18,emma.lau355@hotmail.com,Female,Y,L000356,Emma Lau,Chef,1-905-804-2902,11459,Very Frequent
+37,1988,Qtr 4,December,14,amelia.zhang308@outlook.com,Female,Y,L000309,Amelia Zhang,Barista,1-647-35-4000,12444,Very Frequent
+36,1989,Qtr 1,January,30,riley.chen260@gmail.com,Male,Y,L000261,Riley Chen,Truck Driver,1-365-306-6067,5701,Frequent
+36,1989,Qtr 1,February,28,layla.thompson352@hotmail.com,Female,Y,L000353,Layla Thompson,Product Manager,1-905-140-2376,8018,Very Frequent
+36,1989,Qtr 1,March,15,madison.macdonald156@outlook.com,Male,Y,L000157,Madison MacDonald,Data Analyst,1-437-726-6921,2862,Frequent
+36,1989,Qtr 2,May,13,lily.tremblay186@yahoo.com,Male,Y,L000187,Lily Tremblay,Software Engineer,1-905-819-9349,5339,Frequent
+36,1989,Qtr 2,May,18,matthew.gonzalez102@icloud.com,Female,Y,L000103,Matthew Gonzalez,Sales Associate,1-365-331-1846,8127,Very Frequent
+36,1989,Qtr 2,May,23,james.zhang47@yahoo.com,Male,Y,L000048,James Zhang,Electrician,1-437-380-1312,11268,Very Frequent
+36,1989,Qtr 2,June,24,luna.lin388@hotmail.com,Female,Y,L000389,Luna Lin,Operations Manager,1-365-520-743,5741,Frequent
+36,1989,Qtr 2,June,27,jack.nowak350@outlook.com,Male,Y,L000351,Jack Nowak,Chef,1-905-644-8117,13982,Very Frequent
+36,1989,Qtr 4,November,6,jack.lam160@icloud.com,Male,Y,L000161,Jack Lam,Accountant,1-905-780-9646,9107,Very Frequent
+36,1989,Qtr 4,November,18,jack.khan123@outlook.com,Male,Y,L000124,Jack Khan,Consultant,1-647-315-1593,5275,Frequent
+36,1989,Qtr 4,November,19,ava.liu81@icloud.com,Female,Y,L000082,Ava Liu,Product Manager,1-365-882-7495,4477,Frequent
+35,1990,Qtr 1,January,7,grace.lee499@hotmail.com,Female,Y,L000500,Grace Lee,Marketing Specialist,1-416-269-7711,10096,Very Frequent
+35,1990,Qtr 1,January,16,grace.su408@gmail.com,Non-binary,Y,L000409,Grace Su,Truck Driver,1-905-142-8284,10202,Very Frequent
+35,1990,Qtr 1,February,6,mia.chow496@icloud.com,Prefer not to say,Y,L000497,Mia Chow,Accountant,1-905-903-7914,14762,Very Frequent
+35,1990,Qtr 1,February,17,joseph.nguyen416@icloud.com,Male,Y,L000417,Joseph Nguyen,Graphic Designer,1-647-636-9023,11122,Very Frequent
+35,1990,Qtr 1,February,19,olivia.liu302@outlook.com,Male,Y,L000303,Olivia Liu,Consultant,1-289-259-1729,10532,Very Frequent
+35,1990,Qtr 1,February,24,avery.su423@outlook.com,Non-binary,Y,L000424,Avery Su,Marketing Specialist,1-647-969-4178,9422,Very Frequent
+35,1990,Qtr 1,March,2,nora.huang38@yahoo.com,Female,Y,L000039,Nora Huang,Sales Associate,1-437-499-6619,3020,Frequent
+35,1990,Qtr 2,June,1,owen.garcia265@yahoo.com,Male,Y,L000266,Owen Garcia,Chef,1-647-205-6676,1724,Casual
+35,1990,Qtr 2,June,18,william.kowalski126@gmail.com,Male,Y,L000127,William Kowalski,Student,1-905-432-534,5234,Frequent
+35,1990,Qtr 3,September,1,lily.su398@yahoo.com,Male,Y,L000399,Lily Su,Graphic Designer,1-905-636-8539,5390,Frequent
+35,1990,Qtr 4,October,1,harper.nguyen486@yahoo.com,Prefer not to say,Y,L000487,Harper Nguyen,Marketing Specialist,1-437-860-3966,10062,Very Frequent
+35,1990,Qtr 4,December,8,scarlett.white270@outlook.com,Male,Y,L000271,Scarlett White,Accountant,1-416-352-8536,3798,Frequent
+35,1990,Qtr 4,December,19,scarlett.li216@hotmail.com,Female,Y,L000217,Scarlett Li,Truck Driver,1-365-405-529,10002,Very Frequent
+35,1990,Qtr 4,December,21,amelia.li361@yahoo.com,Female,Y,L000362,Amelia Li,Sales Associate,1-647-182-8137,8056,Very Frequent
+35,1990,Qtr 4,December,25,alexander.su258@hotmail.com,Male,Y,L000259,Alexander Su,Graphic Designer,1-437-870-6809,11326,Very Frequent
+35,1990,Qtr 4,December,26,william.khan206@hotmail.com,Female,Y,L000207,William Khan,Marketing Specialist,1-647-748-3789,4639,Frequent
+34,1991,Qtr 1,February,4,wyatt.martin479@yahoo.com,Non-binary,Y,L000480,Wyatt Martin,Marketing Specialist,1-289-988-614,8654,Very Frequent
+34,1991,Qtr 1,February,16,nora.thompson365@yahoo.com,Female,Y,L000366,Nora Thompson,Nurse,1-905-685-8537,9504,Very Frequent
+34,1991,Qtr 2,April,29,madison.ivanov444@hotmail.com,Female,Y,L000445,Madison Ivanov,Student,1-647-173-3242,6146,Frequent
+34,1991,Qtr 3,July,2,owen.khan69@icloud.com,Male,Y,L000070,Owen Khan,Electrician,1-289-90-7620,10002,Very Frequent
+34,1991,Qtr 3,July,5,camila.roy221@outlook.com,Female,Y,L000222,Camila Roy,Graphic Designer,1-289-509-3957,9689,Very Frequent
+34,1991,Qtr 3,July,9,abigail.nowak26@outlook.com,Female,Y,L000027,Abigail Nowak,Graphic Designer,1-416-650-5510,6161,Frequent
+34,1991,Qtr 3,August,15,scarlett.liu359@hotmail.com,Male,Y,L000360,Scarlett Liu,Electrician,1-365-671-7238,3685,Frequent
+34,1991,Qtr 3,August,16,sofia.park165@icloud.com,Female,Y,L000166,Sofia Park,Operations Manager,1-365-85-6328,9303,Very Frequent
+34,1991,Qtr 3,September,28,henry.zhang139@gmail.com,Female,Y,L000140,Henry Zhang,Graphic Designer,1-647-291-4924,7972,Frequent
+33,1992,Qtr 1,February,18,layla.gonzalez4@icloud.com,Female,Y,L000005,Layla Gonzalez,Software Engineer,1-647-702-2021,5245,Frequent
+33,1992,Qtr 1,March,22,james.tremblay17@outlook.com,Male,Y,L000018,James Tremblay,Software Engineer,1-416-524-5785,7062,Frequent
+33,1992,Qtr 1,March,30,mia.martinez92@icloud.com,Female,Y,L000093,Mia Martinez,Accountant,1-437-592-9625,14602,Very Frequent
+33,1992,Qtr 2,April,1,leo.martinez276@yahoo.com,Male,Y,L000277,Leo Martinez,Research Assistant,1-647-985-9743,12321,Very Frequent
+33,1992,Qtr 2,June,1,aria.tremblay406@icloud.com,Female,Y,L000407,Aria Tremblay,Consultant,1-289-706-9509,5334,Frequent
+33,1992,Qtr 3,September,3,lily.lee208@gmail.com,Female,Y,L000209,Lily Lee,HR Coordinator,1-437-360-856,7534,Frequent
+33,1992,Qtr 3,September,4,logan.wilson129@icloud.com,Male,Y,L000130,Logan Wilson,Sales Associate,1-365-124-4513,4401,Frequent
+33,1992,Qtr 4,November,10,oliver.su212@yahoo.com,Male,Y,L000213,Oliver Su,Customer Service Rep,1-365-129-5413,7747,Frequent
+33,1992,Qtr 4,December,17,mila.nguyen282@icloud.com,Male,Y,L000283,Mila Nguyen,Barista,1-905-739-1800,4688,Frequent
+33,1992,Qtr 4,December,23,jackson.kowalski455@yahoo.com,Male,Y,L000456,Jackson Kowalski,Graphic Designer,1-416-631-8442,11145,Very Frequent
+32,1993,Qtr 1,January,16,leo.thompson391@outlook.com,Male,Y,L000392,Leo Thompson,Software Engineer,1-905-433-5168,11383,Very Frequent
+32,1993,Qtr 2,April,12,abigail.thompson263@hotmail.com,Male,Y,L000264,Abigail Thompson,Project Manager,1-647-660-5613,6646,Frequent
+32,1993,Qtr 2,April,22,michael.kowalski75@outlook.com,Male,Y,L000076,Michael Kowalski,Chef,1-647-948-9443,8929,Very Frequent
+32,1993,Qtr 2,May,7,sebastian.martinez371@hotmail.com,Male,Y,L000372,Sebastian Martinez,Operations Manager,1-365-350-2678,10184,Very Frequent
+32,1993,Qtr 2,May,12,olivia.anderson373@icloud.com,Male,Y,L000374,Olivia Anderson,Student,1-416-345-1523,7519,Frequent
+32,1993,Qtr 2,June,8,sofia.patel144@yahoo.com,Female,Y,L000145,Sofia Patel,HR Coordinator,1-437-462-4609,11612,Very Frequent
+32,1993,Qtr 2,June,13,elijah.nowak196@yahoo.com,Female,Y,L000197,Elijah Nowak,Electrician,1-289-455-6302,11979,Very Frequent
+32,1993,Qtr 3,August,15,leo.kim238@hotmail.com,Male,Y,L000239,Leo Kim,Graphic Designer,1-365-553-149,10393,Very Frequent
+32,1993,Qtr 3,September,1,james.chow457@yahoo.com,Male,Y,L000458,James Chow,Electrician,1-905-223-631,6660,Frequent
+32,1993,Qtr 3,September,24,abigail.smith468@outlook.com,Prefer not to say,Y,L000469,Abigail Smith,Electrician,1-647-237-9895,5711,Frequent
+32,1993,Qtr 3,September,30,matthew.huang36@outlook.com,Female,Y,L000037,Matthew Huang,Research Assistant,1-416-191-9214,4886,Frequent
+32,1993,Qtr 4,October,6,scarlett.singh428@yahoo.com,Female,Y,L000429,Scarlett Singh,Customer Service Rep,1-289-229-3144,4655,Frequent
+32,1993,Qtr 4,December,3,sofia.johnson489@outlook.com,Prefer not to say,Y,L000490,Sofia Johnson,Operations Manager,1-416-591-3877,9005,Very Frequent
+31,1994,Qtr 1,March,6,jacob.smith482@gmail.com,Prefer not to say,Y,L000483,Jacob Smith,Nurse,1-905-669-3128,4677,Frequent
+31,1994,Qtr 2,May,14,layla.martinez199@hotmail.com,Female,Y,L000200,Layla Martinez,Research Assistant,1-416-665-6315,10357,Very Frequent
+31,1994,Qtr 2,May,21,ava.chen323@outlook.com,Female,Y,L000324,Ava Chen,Product Manager,1-905-561-351,5101,Frequent
+31,1994,Qtr 2,June,6,charlotte.chan310@outlook.com,Male,Y,L000311,Charlotte Chan,Sales Associate,1-416-633-3104,4447,Frequent
+31,1994,Qtr 2,June,9,logan.taylor85@hotmail.com,Female,Y,L000086,Logan Taylor,Teacher,1-416-547-4614,7874,Frequent
+31,1994,Qtr 2,June,20,hannah.lopez293@hotmail.com,Female,Y,L000294,Hannah Lopez,Barista,1-289-735-3205,8841,Very Frequent
+31,1994,Qtr 3,July,3,nora.patel34@outlook.com,Female,Y,L000035,Nora Patel,Nurse,1-647-718-8284,8977,Very Frequent
+31,1994,Qtr 3,July,11,benjamin.su470@hotmail.com,Non-binary,Y,L000471,Benjamin Su,Marketing Specialist,1-289-977-7186,4915,Frequent
+31,1994,Qtr 3,July,16,alexander.lau9@hotmail.com,Male,Y,L000010,Alexander Lau,Project Manager,1-416-781-1653,8769,Very Frequent
+31,1994,Qtr 3,September,2,elijah.martin454@outlook.com,Male,Y,L000455,Elijah Martin,Chef,1-365-151-4356,7867,Frequent
+31,1994,Qtr 3,September,4,luna.johnson351@gmail.com,Female,Y,L000352,Luna Johnson,Customer Service Rep,1-905-945-4676,8559,Very Frequent
+31,1994,Qtr 4,October,4,abigail.johnson162@yahoo.com,Male,Y,L000163,Abigail Johnson,Operations Manager,1-437-929-5201,10856,Very Frequent
+31,1994,Qtr 4,October,9,aiden.garcia277@outlook.com,Male,Y,L000278,Aiden Garcia,Consultant,1-416-516-250,5721,Frequent
+31,1994,Qtr 4,November,3,lily.liu50@yahoo.com,Male,Y,L000051,Lily Liu,Truck Driver,1-905-240-3641,9073,Very Frequent
+31,1994,Qtr 4,November,8,sophia.lam209@yahoo.com,Female,Y,L000210,Sophia Lam,Barista,1-437-392-1777,5646,Frequent
+31,1994,Qtr 4,December,2,aiden.smith493@outlook.com,Male,Y,L000494,Aiden Smith,Student,1-905-262-2194,6683,Frequent
+31,1994,Qtr 4,December,17,ethan.johnson122@icloud.com,Male,Y,L000123,Ethan Johnson,Accountant,1-905-890-8255,6673,Frequent
+30,1995,Qtr 1,January,8,sophia.nguyen424@yahoo.com,Female,Y,L000425,Sophia Nguyen,Software Engineer,1-647-837-1094,6461,Frequent
+30,1995,Qtr 1,January,18,riley.su43@yahoo.com,Male,Y,L000044,Riley Su,HR Coordinator,1-365-642-6077,11378,Very Frequent
+30,1995,Qtr 1,February,5,abigail.nguyen35@yahoo.com,Female,Y,L000036,Abigail Nguyen,Research Assistant,1-416-632-7300,5984,Frequent
+30,1995,Qtr 1,March,11,layla.zhang187@gmail.com,Female,Y,L000188,Layla Zhang,Barista,1-416-269-3465,4961,Frequent
+30,1995,Qtr 2,April,8,amelia.gonzalez211@icloud.com,Female,Y,L000212,Amelia Gonzalez,Nurse,1-905-487-7323,11941,Very Frequent
+30,1995,Qtr 2,April,13,luke.lau347@gmail.com,Female,Y,L000348,Luke Lau,HR Coordinator,1-365-796-4920,11361,Very Frequent
+30,1995,Qtr 2,May,10,noah.rodriguez480@yahoo.com,Non-binary,Y,L000481,Noah Rodriguez,Barista,1-365-525-2471,6866,Frequent
+30,1995,Qtr 2,May,16,samuel.martinez343@gmail.com,Female,Y,L000344,Samuel Martinez,Electrician,1-289-272-6041,11457,Very Frequent
+30,1995,Qtr 2,June,15,emily.nowak125@icloud.com,Female,Y,L000126,Emily Nowak,Software Engineer,1-289-495-6686,7799,Frequent
+30,1995,Qtr 3,July,22,wyatt.brown146@outlook.com,Male,Y,L000147,Wyatt Brown,Student,1-416-376-7730,5810,Frequent
+30,1995,Qtr 3,August,30,joseph.khan73@hotmail.com,Male,Y,L000074,Joseph Khan,Project Manager,1-437-540-432,13436,Very Frequent
+30,1995,Qtr 3,September,6,emma.singh96@hotmail.com,Female,Y,L000097,Emma Singh,HR Coordinator,1-437-731-9198,6625,Frequent
+30,1995,Qtr 3,September,11,victoria.ivanov472@hotmail.com,Prefer not to say,Y,L000473,Victoria Ivanov,Product Manager,1-416-826-6073,9605,Very Frequent
+30,1995,Qtr 4,October,5,lily.white195@yahoo.com,Female,Y,L000196,Lily White,Electrician,1-437-846-7484,12565,Very Frequent
+29,1996,Qtr 1,January,19,madison.huang83@hotmail.com,Male,Y,L000084,Madison Huang,Barista,1-905-989-2384,6373,Frequent
+29,1996,Qtr 1,January,23,luke.li135@yahoo.com,Female,Y,L000136,Luke Li,Accountant,1-289-318-7814,5081,Frequent
+29,1996,Qtr 1,March,7,abigail.chen229@hotmail.com,Male,Y,L000230,Abigail Chen,Nurse,1-647-44-4022,4022,Frequent
+29,1996,Qtr 2,April,19,ella.huang175@hotmail.com,Male,Y,L000176,Ella Huang,Research Assistant,1-365-540-3143,7368,Frequent
+29,1996,Qtr 3,August,27,jacob.lin484@gmail.com,Male,Y,L000485,Jacob Lin,Consultant,1-416-253-3133,8445,Very Frequent
+29,1996,Qtr 3,September,1,emma.singh275@gmail.com,Female,Y,L000276,Emma Singh,Operations Manager,1-289-617-800,7291,Frequent
+29,1996,Qtr 3,September,8,william.nguyen90@hotmail.com,Male,Y,L000091,William Nguyen,Consultant,1-365-220-8961,8363,Very Frequent
+29,1996,Qtr 4,October,18,aria.huang253@yahoo.com,Female,Y,L000254,Aria Huang,Truck Driver,1-437-925-9598,6845,Frequent
+28,1997,Qtr 1,March,18,noah.wilson1@yahoo.com,Male,Y,L000002,Noah Wilson,Electrician,1-647-501-6525,6415,Frequent
+28,1997,Qtr 1,March,25,luna.thompson392@icloud.com,Female,Y,L000393,Luna Thompson,Customer Service Rep,1-647-280-5011,14747,Very Frequent
+28,1997,Qtr 2,April,2,sebastian.macdonald378@hotmail.com,Male,Y,L000379,Sebastian MacDonald,Chef,1-437-529-8384,11585,Very Frequent
+28,1997,Qtr 2,April,11,david.rodriguez141@yahoo.com,Female,Y,L000142,David Rodriguez,Chef,1-647-94-8746,3540,Frequent
+28,1997,Qtr 2,April,11,luna.macdonald412@yahoo.com,Female,Y,L000413,Luna MacDonald,Nurse,1-905-791-5786,7312,Frequent
+28,1997,Qtr 2,April,28,luna.khan266@yahoo.com,Female,Y,L000267,Luna Khan,Product Manager,1-289-613-6772,10524,Very Frequent
+28,1997,Qtr 2,June,23,avery.khan192@gmail.com,Female,Y,L000193,Avery Khan,Teacher,1-365-926-2117,6201,Frequent
+28,1997,Qtr 2,June,26,mason.kim153@outlook.com,Female,Y,L000154,Mason Kim,Research Assistant,1-289-869-1670,12242,Very Frequent
+28,1997,Qtr 3,July,30,scarlett.kim244@icloud.com,Male,Y,L000245,Scarlett Kim,Customer Service Rep,1-416-386-8726,4715,Frequent
+28,1997,Qtr 3,August,7,riley.anderson205@hotmail.com,Female,Y,L000206,Riley Anderson,Graphic Designer,1-289-499-6734,8471,Very Frequent
+28,1997,Qtr 4,October,3,nora.li395@yahoo.com,Female,Y,L000396,Nora Li,Data Analyst,1-289-115-5817,5497,Frequent
+28,1997,Qtr 4,October,14,harper.ivanov327@hotmail.com,Female,Y,L000328,Harper Ivanov,Teacher,1-437-423-5650,9121,Very Frequent
+28,1997,Qtr 4,November,6,sofia.liu204@outlook.com,Male,Y,L000205,Sofia Liu,Operations Manager,1-647-316-2309,3763,Frequent
+28,1997,Qtr 4,November,20,amelia.martin461@outlook.com,Male,Y,L000462,Amelia Martin,Sales Associate,1-647-609-2480,3845,Frequent
+27,1998,Qtr 1,January,18,scarlett.singh94@yahoo.com,Male,Y,L000095,Scarlett Singh,Sales Associate,1-365-60-7031,6131,Frequent
+27,1998,Qtr 1,February,4,scarlett.su40@outlook.com,Male,Y,L000041,Scarlett Su,Data Analyst,1-905-502-4564,4218,Frequent
+27,1998,Qtr 1,February,10,logan.kowalski231@outlook.com,Male,Y,L000232,Logan Kowalski,Truck Driver,1-905-889-1392,5497,Frequent
+27,1998,Qtr 1,February,23,lucas.huang243@yahoo.com,Male,Y,L000244,Lucas Huang,Accountant,1-437-342-8565,11718,Very Frequent
+27,1998,Qtr 2,April,21,madison.kim475@outlook.com,Male,Y,L000476,Madison Kim,Barista,1-416-346-7413,7009,Frequent
+27,1998,Qtr 2,April,23,henry.kowalski314@yahoo.com,Male,Y,L000315,Henry Kowalski,Software Engineer,1-647-981-4949,7229,Frequent
+27,1998,Qtr 3,August,9,matthew.lau434@hotmail.com,Non-binary,Y,L000435,Matthew Lau,Student,1-365-406-4986,7705,Frequent
+27,1998,Qtr 3,August,26,aria.nowak10@icloud.com,Female,Y,L000011,Aria Nowak,Barista,1-437-980-7652,5417,Frequent
+27,1998,Qtr 3,September,3,sebastian.johnson306@gmail.com,Male,Y,L000307,Sebastian Johnson,HR Coordinator,1-289-993-9874,8797,Very Frequent
+27,1998,Qtr 4,October,3,david.wilson132@outlook.com,Female,Y,L000133,David Wilson,Marketing Specialist,1-289-378-6876,10590,Very Frequent
+27,1998,Qtr 4,November,8,madison.lopez375@gmail.com,Male,Y,L000376,Madison Lopez,Accountant,1-365-321-545,5650,Frequent
+26,1999,Qtr 2,April,17,grace.nguyen312@icloud.com,Female,Y,L000313,Grace Nguyen,Consultant,1-416-884-5848,15505,Very Frequent
+26,1999,Qtr 2,April,22,chloe.wilson133@hotmail.com,Female,Y,L000134,Chloe Wilson,Accountant,1-289-331-2942,6933,Frequent
+26,1999,Qtr 3,July,14,oliver.wang362@gmail.com,Male,Y,L000363,Oliver Wang,Chef,1-905-455-9075,9910,Very Frequent
+26,1999,Qtr 3,August,17,lucas.ivanov58@outlook.com,Male,Y,L000059,Lucas Ivanov,Truck Driver,1-365-841-1566,10672,Very Frequent
+26,1999,Qtr 3,September,3,mason.chan66@gmail.com,Male,Y,L000067,Mason Chan,Truck Driver,1-416-544-1094,9676,Very Frequent
+26,1999,Qtr 4,October,21,mila.martinez56@hotmail.com,Male,Y,L000057,Mila Martinez,Software Engineer,1-365-158-2636,12724,Very Frequent
+26,1999,Qtr 4,December,29,amelia.johnson273@outlook.com,Female,Y,L000274,Amelia Johnson,Data Analyst,1-647-787-1834,8324,Very Frequent
+25,2000,Qtr 1,January,18,camila.chan443@hotmail.com,Female,Y,L000444,Camila Chan,Consultant,1-437-42-2034,5978,Frequent
+25,2000,Qtr 1,February,11,emily.kowalski78@gmail.com,Female,Y,L000079,Emily Kowalski,Marketing Specialist,1-647-212-8406,8077,Very Frequent
+25,2000,Qtr 1,March,4,daniel.lin28@outlook.com,Male,Y,L000029,Daniel Lin,Accountant,1-365-182-8712,7189,Frequent
+25,2000,Qtr 1,March,22,david.chen436@icloud.com,Prefer not to say,Y,L000437,David Chen,Chef,1-365-387-9754,10620,Very Frequent
+25,2000,Qtr 1,March,30,carter.garcia37@hotmail.com,Male,Y,L000038,Carter Garcia,Software Engineer,1-289-918-1045,2975,Frequent
+25,2000,Qtr 2,April,5,matthew.martin93@icloud.com,Female,Y,L000094,Matthew Martin,Student,1-365-492-7636,4745,Frequent
+25,2000,Qtr 2,April,23,ethan.lam84@hotmail.com,Male,Y,L000085,Ethan Lam,Truck Driver,1-905-976-1919,4624,Frequent
+25,2000,Qtr 2,June,22,zoey.nguyen372@outlook.com,Male,Y,L000373,Zoey Nguyen,Nurse,1-289-567-9216,6819,Frequent
+25,2000,Qtr 2,June,29,zoey.roy271@outlook.com,Male,Y,L000272,Zoey Roy,Graphic Designer,1-365-492-2916,7257,Frequent
+25,2000,Qtr 3,August,4,michael.tremblay219@gmail.com,Male,Y,L000220,Michael Tremblay,Electrician,1-905-350-144,3533,Frequent
+25,2000,Qtr 3,August,13,mila.nowak8@yahoo.com,Male,Y,L000009,Mila Nowak,Graphic Designer,1-437-175-7453,7047,Frequent
+25,2000,Qtr 3,August,14,layla.wilson194@icloud.com,Female,Y,L000195,Layla Wilson,Sales Associate,1-905-539-1892,4937,Frequent
+25,2000,Qtr 4,October,11,camila.rodriguez435@hotmail.com,Non-binary,Y,L000436,Camila Rodriguez,Nurse,1-365-649-336,1391,Casual
+25,2000,Qtr 4,October,14,evelyn.chen447@yahoo.com,Male,Y,L000448,Evelyn Chen,Barista,1-365-400-247,3298,Frequent
+25,2000,Qtr 4,December,8,wyatt.tremblay450@yahoo.com,Female,Y,L000451,Wyatt Tremblay,Nurse,1-905-706-2399,4353,Frequent
+25,2000,Qtr 4,December,25,jacob.thompson51@icloud.com,Male,Y,L000052,Jacob Thompson,Marketing Specialist,1-289-350-6140,5199,Frequent
+25,2000,Qtr 4,December,28,john.lau426@outlook.com,Prefer not to say,Y,L000427,John Lau,Graphic Designer,1-905-250-7455,9642,Very Frequent
+24,2001,Qtr 1,January,10,mila.nowak397@gmail.com,Male,Y,L000398,Mila Nowak,Barista,1-416-937-5882,4189,Frequent
+24,2001,Qtr 1,January,19,david.white374@gmail.com,Female,Y,L000375,David White,Student,1-647-957-6837,5300,Frequent
+24,2001,Qtr 1,February,3,benjamin.lau498@gmail.com,Prefer not to say,Y,L000499,Benjamin Lau,Research Assistant,1-647-796-1441,11761,Very Frequent
+24,2001,Qtr 1,February,17,abigail.singh287@yahoo.com,Male,Y,L000288,Abigail Singh,Software Engineer,1-416-985-5017,6729,Frequent
+24,2001,Qtr 1,March,10,zoey.kowalski247@icloud.com,Male,Y,L000248,Zoey Kowalski,Operations Manager,1-416-894-1356,5097,Frequent
+24,2001,Qtr 2,May,31,liam.rodriguez262@gmail.com,Male,Y,L000263,Liam Rodriguez,Truck Driver,1-905-642-813,5447,Frequent
+24,2001,Qtr 2,June,4,jacob.garcia285@hotmail.com,Male,Y,L000286,Jacob Garcia,Graphic Designer,1-416-592-3211,5881,Frequent
+24,2001,Qtr 2,June,8,victoria.huang183@outlook.com,Female,Y,L000184,Victoria Huang,Customer Service Rep,1-289-616-5265,4853,Frequent
+24,2001,Qtr 2,June,15,elijah.gonzalez127@outlook.com,Male,Y,L000128,Elijah Gonzalez,Barista,1-416-690-5359,2221,Frequent
+24,2001,Qtr 3,September,15,alexander.johnson349@outlook.com,Male,Y,L000350,Alexander Johnson,Product Manager,1-437-892-7331,7356,Frequent
+24,2001,Qtr 3,September,23,nora.macdonald57@icloud.com,Female,Y,L000058,Nora MacDonald,Customer Service Rep,1-416-343-5388,11562,Very Frequent
+24,2001,Qtr 4,October,6,william.lam111@gmail.com,Male,Y,L000112,William Lam,Product Manager,1-416-800-7855,7459,Frequent
+24,2001,Qtr 4,October,24,sebastian.khan301@outlook.com,Male,Y,L000302,Sebastian Khan,Student,1-647-107-5875,5866,Frequent
+24,2001,Qtr 4,December,22,victoria.roy289@gmail.com,Female,Y,L000290,Victoria Roy,Electrician,1-416-168-881,5704,Frequent
+23,2002,Qtr 1,February,5,harper.chen291@hotmail.com,Female,Y,L000292,Harper Chen,Project Manager,1-647-62-2450,6467,Frequent
+23,2002,Qtr 1,March,23,owen.anderson246@hotmail.com,Male,Y,L000247,Owen Anderson,Student,1-365-599-1121,5100,Frequent
+23,2002,Qtr 2,May,1,james.wang383@gmail.com,Male,Y,L000384,James Wang,Truck Driver,1-365-835-2662,7375,Frequent
+23,2002,Qtr 3,July,12,layla.tremblay460@yahoo.com,Prefer not to say,Y,L000461,Layla Tremblay,Teacher,1-416-405-8657,10938,Very Frequent
+23,2002,Qtr 4,October,28,aria.ivanov15@yahoo.com,Male,Y,L000016,Aria Ivanov,Barista,1-289-767-3638,3173,Frequent
+23,2002,Qtr 4,November,16,grace.su191@gmail.com,Male,Y,L000192,Grace Su,Data Analyst,1-437-660-1345,4282,Frequent
+23,2002,Qtr 4,December,23,henry.lam334@gmail.com,Male,Y,L000335,Henry Lam,Product Manager,1-365-590-8583,5452,Frequent
+22,2003,Qtr 4,November,3,zoey.su268@hotmail.com,Female,Y,L000269,Zoey Su,Accountant,1-437-514-9050,5455,Frequent
+22,2003,Qtr 4,December,1,logan.zhang189@icloud.com,Male,Y,L000190,Logan Zhang,Consultant,1-365-718-8850,8918,Very Frequent
+22,2003,Qtr 4,December,19,emma.anderson437@gmail.com,Male,Y,L000438,Emma Anderson,Accountant,1-647-769-7011,7993,Frequent
+21,2004,Qtr 1,February,24,isabella.gonzalez414@gmail.com,Non-binary,Y,L000415,Isabella Gonzalez,HR Coordinator,1-289-39-6575,9977,Very Frequent
+21,2004,Qtr 1,March,16,victoria.roy67@hotmail.com,Male,Y,L000068,Victoria Roy,Project Manager,1-905-60-1539,12842,Very Frequent
+21,2004,Qtr 2,April,4,wyatt.su495@icloud.com,Non-binary,Y,L000496,Wyatt Su,Research Assistant,1-289-587-5480,13498,Very Frequent
+21,2004,Qtr 2,April,8,henry.roy106@hotmail.com,Female,Y,L000107,Henry Roy,Nurse,1-905-751-5907,7656,Frequent
+21,2004,Qtr 2,April,15,avery.lee137@outlook.com,Female,Y,L000138,Avery Lee,Data Analyst,1-365-994-2359,5088,Frequent
+21,2004,Qtr 3,July,1,henry.smith288@gmail.com,Male,Y,L000289,Henry Smith,Teacher,1-647-183-6652,6588,Frequent
+21,2004,Qtr 3,September,8,evelyn.lee148@gmail.com,Female,Y,L000149,Evelyn Lee,Research Assistant,1-647-833-3840,10333,Very Frequent
+21,2004,Qtr 4,October,8,chloe.nowak316@gmail.com,Male,Y,L000317,Chloe Nowak,Electrician,1-365-654-4157,10541,Very Frequent
+21,2004,Qtr 4,November,7,noah.lau217@hotmail.com,Female,Y,L000218,Noah Lau,Chef,1-647-101-1582,9649,Very Frequent
+21,2004,Qtr 4,December,29,madison.chen163@yahoo.com,Male,Y,L000164,Madison Chen,Accountant,1-365-355-1916,4215,Frequent
+20,2005,Qtr 2,April,11,samuel.roy108@gmail.com,Female,Y,L000109,Samuel Roy,Operations Manager,1-437-602-6539,7736,Frequent
+20,2005,Qtr 2,June,7,oliver.gonzalez236@icloud.com,Non-binary,Y,L000237,Oliver Gonzalez,Software Engineer,1-289-607-6360,9387,Very Frequent
+20,2005,Qtr 3,August,6,michael.chan62@hotmail.com,Male,Y,L000063,Michael Chan,Sales Associate,1-416-26-3545,14444,Very Frequent
+20,2005,Qtr 4,November,4,elijah.khan272@yahoo.com,Male,Y,L000273,Elijah Khan,Marketing Specialist,1-416-10-4358,6469,Frequent
+20,2005,Qtr 4,November,28,oliver.zhang198@hotmail.com,Male,Y,L000199,Oliver Zhang,Nurse,1-647-779-6493,4297,Frequent
+20,2005,Qtr 4,December,16,aria.lau174@yahoo.com,Female,Y,L000175,Aria Lau,Consultant,1-437-933-6855,6974,Frequent
+19,2006,Qtr 1,February,16,carter.roy463@outlook.com,Male,Y,L000464,Carter Roy,Teacher,1-416-990-7515,11440,Very Frequent
+19,2006,Qtr 1,February,19,layla.tremblay32@outlook.com,Female,Y,L000033,Layla Tremblay,Data Analyst,1-647-663-5897,8230,Very Frequent
+19,2006,Qtr 1,March,15,sophia.park321@hotmail.com,Male,Y,L000322,Sophia Park,Electrician,1-289-885-1351,12551,Very Frequent
+19,2006,Qtr 2,June,18,riley.singh171@outlook.com,Male,Y,L000172,Riley Singh,Nurse,1-905-345-1505,8422,Very Frequent
+19,2006,Qtr 2,June,22,sofia.lee476@icloud.com,Prefer not to say,Y,L000477,Sofia Lee,Student,1-289-952-2465,6155,Frequent
+19,2006,Qtr 3,August,4,harper.singh329@outlook.com,Female,Y,L000330,Harper Singh,Software Engineer,1-647-178-8866,7472,Frequent
+19,2006,Qtr 4,October,28,sofia.su469@yahoo.com,Non-binary,Y,L000470,Sofia Su,Electrician,1-416-31-3528,7331,Frequent
+18,2007,Qtr 1,January,3,sebastian.nguyen483@hotmail.com,Male,Y,L000484,Sebastian Nguyen,Electrician,1-289-903-8515,6621,Frequent
+18,2007,Qtr 1,February,13,henry.singh421@gmail.com,Non-binary,Y,L000422,Henry Singh,Product Manager,1-905-696-2395,7385,Frequent
+18,2007,Qtr 1,March,12,james.chow145@icloud.com,Male,Y,L000146,James Chow,Project Manager,1-289-750-8033,14194,Very Frequent
+18,2007,Qtr 1,March,12,sophia.tremblay269@gmail.com,Female,Y,L000270,Sophia Tremblay,Barista,1-905-565-4705,9008,Very Frequent
+18,2007,Qtr 1,March,26,jack.garcia224@gmail.com,Male,Y,L000225,Jack Garcia,Student,1-365-294-3946,5257,Frequent
+18,2007,Qtr 2,April,26,samuel.liu474@icloud.com,Non-binary,Y,L000475,Samuel Liu,Teacher,1-289-47-1347,5741,Frequent
+18,2007,Qtr 2,May,9,isabella.park487@yahoo.com,Prefer not to say,Y,L000488,Isabella Park,Graphic Designer,1-289-199-3521,10529,Very Frequent
+18,2007,Qtr 2,May,29,mia.su464@yahoo.com,Female,Y,L000465,Mia Su,HR Coordinator,1-289-741-6346,8121,Very Frequent
+18,2007,Qtr 2,June,19,riley.chan87@icloud.com,Male,Y,L000088,Riley Chan,Truck Driver,1-416-626-2209,9697,Very Frequent
+18,2007,Qtr 3,July,6,john.patel21@yahoo.com,Male,Y,L000022,John Patel,Marketing Specialist,1-905-424-3920,7512,Frequent
+18,2007,Qtr 3,July,8,victoria.anderson348@gmail.com,Male,Y,L000349,Victoria Anderson,Marketing Specialist,1-437-364-1880,5077,Frequent
+18,2007,Qtr 3,July,17,emily.gonzalez448@hotmail.com,Female,Y,L000449,Emily Gonzalez,Accountant,1-365-738-9070,3172,Frequent
+18,2007,Qtr 3,July,19,matthew.nguyen305@yahoo.com,Female,Y,L000306,Matthew Nguyen,Barista,1-905-82-3901,6911,Frequent
+18,2007,Qtr 3,August,15,john.lin172@outlook.com,Male,Y,L000173,John Lin,Customer Service Rep,1-289-619-3739,8557,Very Frequent
+18,2007,Qtr 3,September,6,michael.lee149@outlook.com,Male,Y,L000150,Michael Lee,Consultant,1-437-806-2744,6748,Frequent
+18,2007,Qtr 3,September,12,alexander.white134@gmail.com,Male,Y,L000135,Alexander White,Research Assistant,1-437-817-8803,5248,Frequent
+18,2007,Qtr 3,September,19,lily.zhang249@yahoo.com,Female,Y,L000250,Lily Zhang,Student,1-905-574-5525,10141,Very Frequent
+18,2007,Qtr 3,September,27,victoria.lee331@outlook.com,Male,Y,L000332,Victoria Lee,Graphic Designer,1-365-766-4933,13096,Very Frequent
+18,2007,Qtr 4,November,1,sebastian.macdonald267@yahoo.com,Female,Y,L000268,Sebastian MacDonald,Customer Service Rep,1-905-608-333,7144,Frequent
+18,2007,Qtr 4,November,2,john.chen114@icloud.com,Male,Y,L000115,John Chen,Barista,1-647-889-8660,4792,Frequent
+18,2007,Qtr 4,November,2,lily.lee488@yahoo.com,Male,Y,L000489,Lily Lee,Consultant,1-437-689-4976,1744,Casual
+18,2007,Qtr 4,November,3,alexander.park254@gmail.com,Female,Y,L000255,Alexander Park,HR Coordinator,1-437-818-2787,12541,Very Frequent
+18,2007,Qtr 4,November,10,hannah.rodriguez220@icloud.com,Female,Y,L000221,Hannah Rodriguez,Customer Service Rep,1-416-892-9652,6631,Frequent
+18,2007,Qtr 4,November,21,evelyn.martinez130@hotmail.com,Male,Y,L000131,Evelyn Martinez,Nurse,1-437-606-3353,7936,Frequent
+18,2007,Qtr 4,December,1,william.smith280@hotmail.com,Male,Y,L000281,William Smith,Accountant,1-416-238-8906,6685,Frequent
+18,2007,Qtr 4,December,29,michael.chen400@yahoo.com,Non-binary,Y,L000401,Michael Chen,Student,1-647-137-1287,9556,Very Frequent
